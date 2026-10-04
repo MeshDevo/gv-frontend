@@ -1,0 +1,20 @@
+{
+  "name": "gv-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Golden Voice anime dub platform",
+  "main": "app.js",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "build": "echo 'Frontend is static HTML/CSS/JS'",
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "golden-voice",
+    "anime",
+    "dubbing",
+    "platform"
+  ],
+  "author": "MeshDevo",
+  "license": "MIT",
+  "devDependencies": {}
+}
